@@ -16,7 +16,7 @@ fisher add Gazorby/fish-git-emojis
 | gci     | Continuous integration |
 | gdoc    | Documentation |
 | gfix    | Bugfix |
-| gnew    | New feature |
+| gfeat    | New feature |
 | gperf   | Improve performance |
 | gref    | Code refactoring |
 | gstyle  | Code style |
