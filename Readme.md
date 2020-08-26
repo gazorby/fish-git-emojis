@@ -30,7 +30,7 @@ fisher add Gazorby/fish-git-emojis
 
 - `gfeat "my new feat"` => `✨ feat: my new feat"`
 
-- `gdocs "readme" "add badges"` => 📝 doc(readme): "add badge"
+- `gdocs "readme" "add badges"` => `📝 doc(readme): "add badge"`
 
 ## 📝 License
 
