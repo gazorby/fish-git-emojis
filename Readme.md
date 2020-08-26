@@ -12,7 +12,7 @@ fisher add Gazorby/fish-git-emojis
 
 ## 🔧 Usage
 
-`command <commit message>`
+`command [scope] <commit message>`
 
 | Command | Emoji |
 |-------- | ----------- |
@@ -26,8 +26,11 @@ fisher add Gazorby/fish-git-emojis
 | gstyle  | 🎨 Code style |
 | gtest   | ✅ Test |
 
-Ex : `gfeat "my new feat"` will commit with this message : `✨ feat: my new feat"`
+### Examples
 
+- `gfeat "my new feat"` => `✨ feat: my new feat"`
+
+- `gdoc "readme" "add badges"` => 📝 doc(readme): "add badge"
 
 ## 📝 License
 

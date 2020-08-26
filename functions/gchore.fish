@@ -1,1 +1,1 @@
-function gchore; _gc "👷 chore: $argv"; end;
+function gchore; _gc "👷" "chore" $argv; end;

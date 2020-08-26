@@ -1,1 +1,1 @@
-function gdoc; _gc "📝 doc: $argv"; end;
+function gdoc; _gc "📝" "doc" $argv; end;

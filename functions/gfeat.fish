@@ -1,1 +1,1 @@
-function gfeat; _gc "✨ feat: $argv"; end
+function gfeat; _gc "✨" "feat" $argv; end

@@ -1,1 +1,1 @@
-function gref; _gc "♻️ refactor: $argv"; end;
+function gref; _gc "♻️" "refactor" $argv; end;

@@ -1,1 +1,1 @@
-function gfix; _gc "🐛 fix: $argv"; end;
+function gfix; _gc "🐛" "fix" $argv; end;

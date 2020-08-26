@@ -1,1 +1,1 @@
-function gci; _gc "💚 ci: $argv"; end;
+function gci; _gc "💚" "ci" $argv; end;

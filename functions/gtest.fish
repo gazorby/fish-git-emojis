@@ -1,1 +1,1 @@
-function gtest; _gc "✅ test: $argv"; end;
+function gtest; _gc "✅" "test" $argv; end;
