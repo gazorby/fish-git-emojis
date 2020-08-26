@@ -18,7 +18,7 @@ fisher add Gazorby/fish-git-emojis
 |-------- | ----------- |
 | gbuild  | 👷 build/chore |
 | gci     | 💚 Continuous integration |
-| gdoc    | 📝 Documentation |
+| gdocs    | 📝 Documentation |
 | gfix    | 🐛 Bugfix |
 | gfeat   | ✨ New feature |
 | gperf   | ⚡️ Improve performance |
@@ -30,7 +30,7 @@ fisher add Gazorby/fish-git-emojis
 
 - `gfeat "my new feat"` => `✨ feat: my new feat"`
 
-- `gdoc "readme" "add badges"` => 📝 doc(readme): "add badge"
+- `gdocs "readme" "add badges"` => 📝 doc(readme): "add badge"
 
 ## 📝 License
 
