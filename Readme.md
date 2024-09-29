@@ -7,7 +7,7 @@ Shortcuts to commit with Gitmoji messages. Default emojis are inspired from [git
 Using [fisher](https://github.com/jorgebucaran/fisher) :
 
 ```console
-fisher add Gazorby/fish-git-emojis
+fisher install Gazorby/fish-git-emojis
 ```
 
 ## 🔧 Usage
